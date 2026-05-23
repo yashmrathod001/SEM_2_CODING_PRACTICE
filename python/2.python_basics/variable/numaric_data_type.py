@@ -28,16 +28,19 @@ difference = y - b  # -5 - (-0.5)
    # Multiplication
 product = x * a  # 10 * 3.14
    # Division
-quotient = x / a  # 10 / 3.14
+quotient = x / a  
+print("addition  = ",sum, "differnce",difference,"product =", product,"division =", quotient)
 """
    You can also use built-in functions to perform operations on numeric data types, such as `abs()`, `round()`, and `pow()`. For example:
 """
    # Absolute value  
-abs_value = abs(y)  # abs(-5)
+abs_value = abs(y) 
+print(abs_value)
    # Rounding   
-rounded_value = round(a)  # round(3.14)
-   # Power   
-power_value = pow(x, 2)  # pow(10, 2)
+rounded_value = round(a)  
+print(rounded_value)   # Power   
+power_value = pow(x, 2)  
+print(power_value)  # pow(10, 2)
 """
    In summary, numeric data types in Python are essential for performing mathematical operations and storing numeric values. Understanding how to use them effectively is crucial for any programming task that involves numbers.
    
