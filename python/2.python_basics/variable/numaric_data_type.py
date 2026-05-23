@@ -45,3 +45,4 @@ print(power_value)  # pow(10, 2)
    In summary, numeric data types in Python are essential for performing mathematical operations and storing numeric values. Understanding how to use them effectively is crucial for any programming task that involves numbers.
    
    """
+
